@@ -5,7 +5,7 @@
 
 
 
-#Sure, here's a roadmap for becoming a MERN stack developer:
+Here's a roadmap for becoming a MERN stack developer:
 
 Learn HTML, CSS, and JavaScript: These are the foundational web development languages. You need to have a solid understanding of these to build web applications.
 
